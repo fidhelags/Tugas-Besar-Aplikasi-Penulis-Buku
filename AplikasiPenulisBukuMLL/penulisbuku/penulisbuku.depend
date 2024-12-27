@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1733572707 source:c:\users\fidhe\downloads\semester 3\strukdat\kelompok6_std\fidhela ghaisani shabrina_103012300320_tugasbesar\buku\main.cpp
+	"penulisbuku.h"
+	<iostream>
+	<string>
+
+1733569921 c:\users\fidhe\downloads\semester 3\strukdat\kelompok6_std\fidhela ghaisani shabrina_103012300320_tugasbesar\buku\penulisbuku.h
+	<iostream>
+	<string>
+
+1733575299 source:c:\users\fidhe\downloads\semester 3\strukdat\kelompok6_std\fidhela ghaisani shabrina_103012300320_tugasbesar\buku\penulisbuku.cpp
+	"penulisbuku.h"
+	<iostream>
+	<string>
+	"stdlib.h"
+
+1733572707 source:c:\users\fidhe\downloads\semester 3\strukdat\kelompok6_std\tugasbesar - copy\buku\main.cpp
+	"penulisbuku.h"
+	<iostream>
+	<string>
+
+1733583601 c:\users\fidhe\downloads\semester 3\strukdat\kelompok6_std\tugasbesar - copy\buku\penulisbuku.h
+	<iostream>
+	<string>
+
+1733583765 source:c:\users\fidhe\downloads\semester 3\strukdat\kelompok6_std\tugasbesar - copy\buku\penulisbuku.cpp
+	"penulisbuku.h"
+	<iostream>
+	<string>
+	"stdlib.h"
+
+1733672714 source:c:\users\fidhe\downloads\tugasbesar - copy (2)\tugasbesar - copy\tugasbesar - copy\buku\main.cpp
+	"penulisbuku.h"
+	<iostream>
+	<string>
+
+1733673106 c:\users\fidhe\downloads\tugasbesar - copy (2)\tugasbesar - copy\tugasbesar - copy\buku\penulisbuku.h
+	<iostream>
+	<string>
+
+1733673176 source:c:\users\fidhe\downloads\tugasbesar - copy (2)\tugasbesar - copy\tugasbesar - copy\buku\penulisbuku.cpp
+	"penulisbuku.h"
+	<iostream>
+	<string>
+	"stdlib.h"
+
+1734027829 source:c:\users\xx\downloads\tugasbesar 3 - copy\tugasbesar 3 - copy\buku\main.cpp
+	"penulisbuku.h"
+	<iostream>
+	<string>
+
+1734033043 c:\users\xx\downloads\tugasbesar 3 - copy\tugasbesar 3 - copy\buku\penulisbuku.h
+	<iostream>
+	<string>
+	<limits>
+
+1734029299 source:c:\users\xx\downloads\tugasbesar 3 - copy\tugasbesar 3 - copy\buku\penulisbuku.cpp
+	"penulisbuku.h"
+	<iostream>
+	<string>
+	"stdlib.h"
+
+1734369518 source:c:\users\fidhe\downloads\tugasbesar 3 - done\tugasbesar 3 - copy\tugasbesar 3 - copy\buku\main.cpp
+	"penulisbuku.h"
+	<iostream>
+	<string>
+
+1734244211 c:\users\fidhe\downloads\tugasbesar 3 - done\tugasbesar 3 - copy\tugasbesar 3 - copy\buku\penulisbuku.h
+	<iostream>
+	<string>
+	<limits>
+
+1734369418 source:c:\users\fidhe\downloads\tugasbesar 3 - done\tugasbesar 3 - copy\tugasbesar 3 - copy\buku\penulisbuku.cpp
+	"penulisbuku.h"
+	<iostream>
+	<string>
+	"stdlib.h"
+
+1734369518 source:c:\users\fidhe\downloads\tugasbesar 3 - done - copy (2)\tugasbesar 3 - copy\tugasbesar 3 - copy\buku\main.cpp
+	"penulisbuku.h"
+	<iostream>
+	<string>
+
+1734244211 c:\users\fidhe\downloads\tugasbesar 3 - done - copy (2)\tugasbesar 3 - copy\tugasbesar 3 - copy\buku\penulisbuku.h
+	<iostream>
+	<string>
+	<limits>
+
+1734369518 source:c:\users\fidhe\downloads\tugasbesar 3 - done - copy (2) - copy\tugasbesar 3 - copy\tugasbesar 3 - copy\buku\main.cpp
+	"penulisbuku.h"
+	<iostream>
+	<string>
+
+1734244211 c:\users\fidhe\downloads\tugasbesar 3 - done - copy (2) - copy\tugasbesar 3 - copy\tugasbesar 3 - copy\buku\penulisbuku.h
+	<iostream>
+	<string>
+	<limits>
+
+1734452339 source:c:\users\fidhe\downloads\tugasbesar 3 - done - copy (2) - copy\tugasbesar 3 - copy\tugasbesar 3 - copy\buku\penulisbuku.cpp
+	"penulisbuku.h"
+	<iostream>
+	<string>
+	"stdlib.h"
+
+1734753687 source:c:\users\fidhe\downloads\06_103012300320_103012300080\penulisbuku\penulisbuku.cpp
+	"penulisbuku.h"
+	<iostream>
+	<string>
+	"stdlib.h"
+
+1734244211 c:\users\fidhe\downloads\06_103012300320_103012300080\penulisbuku\penulisbuku.h
+	<iostream>
+	<string>
+	<limits>
+
+1734756031 source:c:\users\fidhe\downloads\06_103012300320_103012300080\penulisbuku\main.cpp
+	"penulisbuku.h"
+	<iostream>
+	<string>
+
